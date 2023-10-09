@@ -1,6 +1,11 @@
 # Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+## Project Video
+
+
+https://github.com/ruchika216/PORTFOLIO_Angular/assets/54766813/948e2781-7066-44bc-a3ea-29c97e80e57f
+
 
 How to get this project?
 > Use this cmd in you command prompt- **git clone https://github.com/ruchika216/PORTFOLIO_Angular/**
